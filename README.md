@@ -20,8 +20,19 @@
 
 ---
 
+### 🧠 Additional Skills
+
+- ✅ **Agile Methodologies** (Scrum, Kanban)  
+- 🔁 **Version Control** with **Git & GitHub**  
+- 🧩 **Team Collaboration** using **Scrum frameworks**  
+- 📂 **Project Organization** and **Task Tracking** with tools like **Trello** or **Jira**  
+- 🛡️ **Basic Knowledge of Clean Architecture & SOLID principles**  
+- 🌍 **Multiplatform development** (Web & Mobile)
+
+---
+
 ### 📍 Location  
-🗺️ Ica, **Peru** &nbsp; ![Peru Flag](https://cdn.jsdelivr.net/gh/hjnilsson/country-flags@latest/svg/pe.svg#icon)
+🗺️ Ica, **Peru** &nbsp; 🇵🇪
 
 ---
 
