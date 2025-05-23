@@ -1,7 +1,7 @@
-<p align="center">
+<h1 align="center">
   💻 Desarrollador <strong>Front-End Web</strong> y <strong>Móvil</strong> con Flutter <br>
   🌍 Desde <strong>Ica, Perú</strong> 🇵🇪
-</p>
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Web-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
