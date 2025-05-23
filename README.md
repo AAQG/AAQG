@@ -15,8 +15,8 @@
 
 ## 🚀 About Me
 
-🎯 I'm a passionate **Front-End Web Developer** and **Mobile Developer** based in 🇵🇪 **Ica, Peru**.  
-💡 I love creating clean, scalable, and user-friendly applications for web and mobile platforms.
+🎯 Soy un apasionado **Desarrollador Web Front-End** y **Desarrollador Móvil** radicado en 🇵🇪 **Ica, Perú**.  
+💡 Me encanta crear aplicaciones limpias, escalables y fáciles de usar para plataformas web y móviles.
 
 ---
 
