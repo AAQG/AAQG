@@ -1,3 +1,16 @@
+<p align="center">
+  💻 Desarrollador <strong>Front-End Web</strong> y <strong>Móvil</strong> con Flutter <br>
+  🌍 Desde <strong>Ica, Perú</strong> 🇵🇪
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Web-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mobile-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/State-Riverpod-00C7B7?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Style-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metodología-Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Control-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 ## 🚀 About Me
 
 🎯 I'm a passionate **Front-End Web Developer** and **Mobile Developer** based in 🇵🇪 **Ica, Peru**.  
