@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/badge/Metodología-Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
   <img src="https://img.shields.io/badge/Control-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+---
+
 ## 🚀 About Me
 
 🎯 I'm a passionate **Front-End Web Developer** and **Mobile Developer** based in 🇵🇪 **Ica, Peru**.  
