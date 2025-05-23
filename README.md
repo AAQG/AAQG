@@ -13,7 +13,7 @@
 </p>
 
 
-## 🚀 About Me
+## 🚀 Acerca de mí
 
 🎯 Soy un apasionado **Desarrollador Web Front-End** y **Desarrollador Móvil** radicado en 🇵🇪 **Ica, Perú**.  
 💡 Me encanta crear aplicaciones limpias, escalables y fáciles de usar para plataformas web y móviles.
@@ -35,7 +35,7 @@
 
 ---
 
-### 🧠 Additional Skills
+### 🧠 Habilidades Adicionales
 
 - ✅ **Agile Methodologies** (Scrum, Kanban)  
 - 🔁 **Version Control** with **Git & GitHub**  
@@ -48,11 +48,11 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AAQG&theme=dark)](https://git.io/streak-stats)
 ---
  
-### 📍 Location  
+### 📍 Ubicación  
 🗺️ Ica, **Peru** &nbsp; 🇵🇪
 
 ---
 
-### 📫 Let's Connect
+### 📫 Vamos a conectarnos
 
-💬 Feel free to connect with me to collaborate or talk about technology!
+💬 No dudes en conectarte conmigo para colaborar o hablar sobre tecnología.!
