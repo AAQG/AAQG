@@ -30,7 +30,9 @@
 - 🌍 **Multiplatform development** (Web & Mobile)
 
 ---
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AAQG&theme=dark)](https://git.io/streak-stats)
+---
+ 
 ### 📍 Location  
 🗺️ Ica, **Peru** &nbsp; 🇵🇪
 
